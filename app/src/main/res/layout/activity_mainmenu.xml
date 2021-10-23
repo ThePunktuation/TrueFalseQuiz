@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.QuizGame.QuizGame"
+    tools:showIn="@layout/activity_mainmenu">
+    <TextView
+        android:id="@+id/lblWelcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_horizontal"
+        android:text="@string/Welcome"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:columnCount="3"
+        android:rowCount="2"
+        android:useDefaultMargins="true" >
+        <Button
+            android:id="@+id/btnLanguage"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_gravity="center|fill"
+            android:layout_row="0"
+            android:text="@string/goLanguage" />
+        <Button
+            android:id="@+id/btnPlay"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_gravity="center|fill"
+            android:layout_row="0"
+            android:text="@string/goPlay" />
+
+    </GridLayout>
+</RelativeLayout>
+

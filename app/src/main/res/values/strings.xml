@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    <string name="Welcome">Welcome to True or False Quiz Creator!</string>
+    <string name="Title">Begin Quizzing!</string>
+    <string name="goLanguage">\Change Language</string>
+    <string name="goPlay">Play Quiz</string>
+    <string name="goList">Saved Flashcards</string>
+    <string name="goBack">Return to Menu</string>
+    <string name="exit">Exit</string>
+    <string name="correct_button">True</string>
+    <string name="incorrect_button">False</string>
+    <string name="Previous">Previous Question</string>
+    <string name="Next">Next Question</string>
+    <string name="Points">Points: </string>
+    <string name="Ready">Ready?</string>
+    <string name="BeginGame">Begin True or False Quiz</string>
+    <string name="Warning">Abandon All Hope, ye who Enter Here!</string>
+    <string name="Congrats">Congrats!</string>
+    <string name="retry">Retry?</string>
+    <string name="ChangeHead">Change Language Menu</string>
+    <string name="ChangeLang">Change Language</string>
+
+
+</resources>

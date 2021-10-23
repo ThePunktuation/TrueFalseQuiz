@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">クイズゲーム</string>
+    <string name="Welcome">TrueまたはFalseクイズクリエーターへようこそ！</string>
+    <string name="Title">クイズを始めましょう！</string>
+    <string name="goLanguage">言語を変更</string>
+    <string name="goPlay">クイズを再生する</string>
+    <string name="goList">Saved Flashcards</string>
+    <string name="goBack">メニューに戻る</string>
+    <string name="exit">出口</string>
+    <string name="correct_button">True</string>
+    <string name="incorrect_button">False</string>
+    <string name="Previous">前の質問</string>
+    <string name="Next">次の質問</string>
+    <string name="Points">ポイント: </string>
+    <string name="Ready">準備？</string>
+    <string name="BeginGame">正誤問題のクイズを開始する</string>
+    <string name="Warning">ここに入るあなたがたは、すべての希望を捨てなさい！</string>
+    <string name="Congrats">おめでとうございます！</string>
+    <string name="retry">リトライ？</string>
+    <string name="ChangeHead">言語メニューの変更</string>
+    <string name="ChangeLang">言語を変更</string>
+</resources>

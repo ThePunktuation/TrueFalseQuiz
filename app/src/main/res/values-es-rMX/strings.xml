@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juego de Preguntas</string>
+    <string name="Welcome">¡Bienvenido a True or False Quiz!</string>
+    <string name="Title">¡Empiece a hacer preguntas!</string>
+    <string name="goLanguage">Cambiar idioma</string>
+    <string name="goPlay">Jugar Quiz</string>
+    <string name="goList">Saved Flashcards</string>
+    <string name="goBack">Volver al menú</string>
+    <string name="exit">Salida</string>
+    <string name="correct_button">Cierto</string>
+    <string name="incorrect_button">Falso</string>
+    <string name="Previous">Pregunta anterior</string>
+    <string name="Next">Próxima pregunta</string>
+    <string name="Points">Puntos: </string>
+    <string name="Ready">¿Listo?</string>
+    <string name="BeginGame">Comience la prueba de verdadero o falso</string>
+    <string name="Warning">¡Abandona toda esperanza, los que entras aquí!</string>
+    <string name="Congrats">¡Felicitaciones!</string>
+    <string name="retry">¿Rever?</string>
+    <string name="ChangeHead">Menú Cambiar idioma</string>
+    <string name="ChangeLang">Cambiar idioma</string>
+
+</resources>

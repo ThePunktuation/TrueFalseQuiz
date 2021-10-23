@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeu-questionnaire</string>
+    <string name="Welcome">Bienvenue dans Vrai ou Faux Quiz!</string>
+    <string name="Title">Commencez le quiz !</string>
+    <string name="goLanguage">Changer de langue</string>
+    <string name="goPlay">Jouer au Quiz</string>
+    <string name="goList">Saved Flashcards</string>
+    <string name="goBack">Retour au menu</string>
+    <string name="exit">Sortir</string>
+    <string name="correct_button">Vrai</string>
+    <string name="incorrect_button">Faux</string>
+    <string name="Previous">Question précédente</string>
+    <string name="Next">Question suivante</string>
+    <string name="Points">Points: </string>
+    <string name="Ready">Prêt?</string>
+    <string name="BeginGame">Commencer le quiz vrai ou faux</string>
+    <string name="Warning">Abandonnez tout espoir, vous qui entrez ici !</string>
+    <string name="Congrats">Félicitations!</string>
+    <string name="retry">Réessayez?</string>
+    <string name="ChangeHead">Changer le menu de langue</string>
+    <string name="ChangeLang">Changer de langue</string>
+</resources>
